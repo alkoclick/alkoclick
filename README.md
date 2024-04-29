@@ -28,6 +28,6 @@ I'm currently working as an SRE at Miro, a visual collaboration editor.
 - [This question](https://scifi.stackexchange.com/questions/226541/what-are-some-examples-of-lovecrafts-racism-in-his-published-short-stories) about whether we have written examples of H.P. Lovecraft's racism, led me to turn vegan
 - I have multiple accents of English and I switch between them based on context
 
-I believe in salary transparency. You can see my [tech compensation data here](https://alkoclick.space/compensation.md).
+I believe in salary transparency. You can see my [tech compensation data here](https://alkoclick.space/compensation).
 
 Thanks for being here and reading through this, enjoy your day!
